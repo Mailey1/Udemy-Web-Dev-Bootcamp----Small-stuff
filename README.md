@@ -19,3 +19,7 @@ The [Colour Game](https://github.com/Mailey1/Udemy-Web-Dev-Bootcamp----Small-stu
 ### Patatap Clone
 
 [Patatap](https://github.com/Mailey1/Udemy-Web-Dev-Bootcamp----Small-stuff/tree/master/Patatap) is a simplified clone of the patatap website: http://www.patatap.com/. The reading of keystrokes as well as the animated circles were made using Paperjs (http://paperjs.org/), and the use of sounds was handled by howlerjs (https://howlerjs.com/).
+
+### Movie API App
+
+The [Movie API App](https://github.com/Mailey1/Udemy-Web-Dev-Bootcamp----Small-stuff/tree/master/Movie-API-App) was built for practice interacting with web APIs. It uses The Open Movie Database (http://omdbapi.com/) to return a list of movies whose title contains a keyword entered by the user.
